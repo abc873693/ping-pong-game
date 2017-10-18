@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'iCLK_50'
+Slack : -9.898
+TNS   : -1599.807
+
+Type  : Slow 1200mV 85C Model Setup 'PLL:pll0|c0~reg0'
+Slack : -7.940
+TNS   : -230.636
+
+Type  : Slow 1200mV 85C Model Setup 'vga_hs'
+Slack : -1.888
+TNS   : -41.848
+
+Type  : Slow 1200mV 85C Model Hold 'PLL:pll0|c0~reg0'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'iCLK_50'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'vga_hs'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'iCLK_50'
+Slack : -3.000
+TNS   : -410.345
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PLL:pll0|c0~reg0'
+Slack : -1.285
+TNS   : -60.395
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'vga_hs'
+Slack : -1.285
+TNS   : -29.555
+
+Type  : Slow 1200mV 0C Model Setup 'iCLK_50'
+Slack : -8.973
+TNS   : -1444.269
+
+Type  : Slow 1200mV 0C Model Setup 'PLL:pll0|c0~reg0'
+Slack : -7.100
+TNS   : -205.472
+
+Type  : Slow 1200mV 0C Model Setup 'vga_hs'
+Slack : -1.659
+TNS   : -36.408
+
+Type  : Slow 1200mV 0C Model Hold 'PLL:pll0|c0~reg0'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'iCLK_50'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'vga_hs'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'iCLK_50'
+Slack : -3.000
+TNS   : -410.345
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PLL:pll0|c0~reg0'
+Slack : -1.285
+TNS   : -60.395
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'vga_hs'
+Slack : -1.285
+TNS   : -29.555
+
+Type  : Fast 1200mV 0C Model Setup 'iCLK_50'
+Slack : -4.336
+TNS   : -634.768
+
+Type  : Fast 1200mV 0C Model Setup 'PLL:pll0|c0~reg0'
+Slack : -4.047
+TNS   : -104.176
+
+Type  : Fast 1200mV 0C Model Setup 'vga_hs'
+Slack : -0.356
+TNS   : -7.560
+
+Type  : Fast 1200mV 0C Model Hold 'PLL:pll0|c0~reg0'
+Slack : -0.081
+TNS   : -0.081
+
+Type  : Fast 1200mV 0C Model Hold 'iCLK_50'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'vga_hs'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'iCLK_50'
+Slack : -3.000
+TNS   : -349.270
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PLL:pll0|c0~reg0'
+Slack : -1.000
+TNS   : -47.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'vga_hs'
+Slack : -1.000
+TNS   : -23.000
+
+------------------------------------------------------------

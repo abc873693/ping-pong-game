@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at VGA.v(289): always construct contains both blocking and non-blocking assignments
